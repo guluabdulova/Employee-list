@@ -1,0 +1,26 @@
+.list-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .search-input {
+    padding: 8px;
+    margin: 16px 0;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .employee-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    padding: 8px;
+    margin: 8px 0;
+    background: #f0f0f0;
+    border-radius: 4px;
+  }
+  
